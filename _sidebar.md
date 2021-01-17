@@ -1,12 +1,13 @@
 
 * [备战面试](./docs/a-1备战面试.md)
   
-* Java
-
-  * [Java基础](./docs/b-1面试题总结-Java基础.md)
-  * [Java集合](./docs/b-2Java集合.md)
-  * [Java多线程](./docs/b-3Java多线程.md)
-  * [jvm](./docs/b-4jvm.md)
+* JAVA基础
+  * 基础语法
+      * [基础语法](./docs/01_JAVA基础/00_基础语法/00_基础语法.md)
+  * 面向对象
+      * [继承](./docs/01_JAVA基础/02_面向对象/01_继承.md)
+      * [Java多线程](./docs/b-3Java多线程.md)
+      * [jvm](./docs/b-4jvm.md)
 
 * 计算机基础
 

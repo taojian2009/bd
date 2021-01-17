@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1411026-403f-4551-b5f3-7b02f5efc0c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01_JAVA基础/00_基础语法/00_基础语法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_大数据/03_MySQL数据库.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_hadoop生态系统/07_hive组件.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/PrestoClient/Presto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_基础/00_基础语法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_基础/01_面向对象.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_基础/02_常用api的使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_JAVA基础/02_常用api的使用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_基础/02_面向对象/01_继承.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_JAVA基础/02_面向对象/01_继承.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_基础/02_面向对象/02_多态.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_JAVA基础/02_面向对象/02_多态.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_基础/02_面向对象/03_接口.md" beforeDir="false" afterPath="$PROJECT_DIR$/01_JAVA基础/02_面向对象/03_接口.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lowa13phuTCPLTJElnzegVp7DK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1411026-403f-4551-b5f3-7b02f5efc0c3" name="Default Changelist" comment="" />
+      <created>1608276811987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608276811987</updated>
+      <workItem from="1608276817569" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
